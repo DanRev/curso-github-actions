@@ -19,4 +19,4 @@ jobs:
 
       # Run the main.js script
       - name: Run main.js
-        run: node ../main.js
+        run: node main.js
